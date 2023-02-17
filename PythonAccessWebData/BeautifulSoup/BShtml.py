@@ -1,4 +1,6 @@
-"""prints all the links in an html page"""
+"""prints all the links in an html page 
+pip install beautifulsoup4 to install"""
+
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 
